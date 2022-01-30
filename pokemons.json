@@ -1,0 +1,25 @@
+{
+    "pokemons":[
+    {   
+        "name": "Charmander",
+        "type": "fire",
+        "abilities":[
+          "blaze", "solarpower"  
+        ] 
+    },
+    {   
+        "name": "Bulbasaur",
+        "type": "grass",
+        "abilities":[
+          "chlorophyll", "overgrow"  
+        ] 
+    },
+    {   
+        "name": "Squirtle",
+        "type": "water",
+        "abilities":[
+          "torrent", "rain-dish"  
+        ] 
+    }
+    ]
+}
